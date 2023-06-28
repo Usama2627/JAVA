@@ -1,0 +1,16 @@
+class HouseRunner {
+    public static void main(String[] args) {
+        House house1 = new House();
+        House house2 = new House();
+        House house3 = new House();
+        House house4 = new House();
+        House house5 = new House();
+        House house6 = new House();
+        House house7 = new House();
+        House house8 = new House();
+        House house9 = new House();
+        House house10 = new House();
+    }
+}
+
+
