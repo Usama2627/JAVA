@@ -1,6 +1,6 @@
 package com.xworkz.isa;
 
-public class Xworkz extends Institute{
+public class Xworkz extends Institute {
 
 	String founderName;
 	String branchName;
